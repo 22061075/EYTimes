@@ -1,0 +1,17 @@
+/* 구글 웹폰트 */
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+
+/* 초기화 코드 */
+body, h1, h2, h3, h4, h5, h6, ul, ol, dl, p {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
